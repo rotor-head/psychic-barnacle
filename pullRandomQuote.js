@@ -1,4 +1,4 @@
-// Original author 
+// Original author gapher74
 $(document).ready(function(){
 var qIndex;
 // I need to redirect the user to the quote they want to read completely, as in Twitter it was truncated.
